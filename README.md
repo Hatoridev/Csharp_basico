@@ -1,4 +1,4 @@
-# Csharp_basico
+# Csharp_basic
 
 Repository with examples and projects using the C# Programming Language - Basic Level
 
